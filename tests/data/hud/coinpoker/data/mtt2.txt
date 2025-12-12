@@ -36,3 +36,4 @@ Seat 7: Kahn22 (button) folded before Flop
 *** RNG ***
 cards: 6d Ad 6s 6c Jh 4s Jd 8h 6h 3d 7c Ah Tc 8c 9s Jc 2h Kh Ks 5h 9d 9c As Th 2d 4c 8d Td Ts 4h 3h 5d 4d 5c Js Qd XX XX XX XX
 
+
