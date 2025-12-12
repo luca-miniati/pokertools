@@ -1,19 +1,51 @@
-CoinPoker Hand #342080085: Hold'em No Limit (0.01/0.02) 2025/12/10 11:04:40 GMT
-Table 'NL ₮2 IV' 7-max Seat #4 is the button
-Seat 1: EvilMonkey (2.37 in chips)
-Seat 4: 23409m (2.54 in chips)
+CoinPoker Hand #343148844: Hold'em No Limit (0.01/0.02) 2025/12/12 09:28:51 GMT
+Table 'NL ₮2 IV' 7-max Seat #1 is the button
+Seat 1: Belgiandude (1.99 in chips)
+Seat 2: viratt (2 in chips)
+Seat 3: mohamad00136 (0.81 in chips)
+Seat 4: 23409m (3.43 in chips)
+Seat 5: CPT3 (2.09 in chips)
+Seat 6: HarryPARK (2.96 in chips)
+Seat 7: nice27 (2.04 in chips)
 23409m: posts small blind 0.01
-EvilMonkey: didn't post big blind
-*** HAND CANCELLED ***
-All bets returned (0.01)
+CPT3: posts big blind 0.02
+viratt: posts big blind 0.02
+mohamad00136: posts big blind 0.02
+*** HOLE CARDS ***
+Dealt to 23409m [Kh Kc]
+HarryPARK: folds
+nice27: folds
+Belgiandude: raises 0.03 to 0.05
+viratt: folds
+mohamad00136: folds
+23409m: raises 0.17 to 0.22
+CPT3: folds
+Belgiandude: calls 0.17
+*** FLOP *** [9d 6c 5d]
+23409m: bets 0.15
+Belgiandude: calls 0.15
+*** TURN *** [9d 6c 5d] [Ks]
+23409m: bets 0.38
+Belgiandude has timed out
+Belgiandude activated time-bank (60 seconds)
+Belgiandude: folds
+Uncalled bet (0.38) returned to 23409m
+23409m collected 0.76 from pot
+23409m: doesn't show hand
 *** SUMMARY ***
-Total pot 0.01 | CC 0
-Board [ ]
-Game ended: 2025/12/10 11:04:40 GMT
-Seat 1: EvilMonkey folded before Flop (didn't bet)
-Seat 4: 23409m (button) collected (0.01)
+Total pot 0.8 | CC 0.04
+Board [ 9d 6c 5d Ks ]
+Game ended: 2025/12/12 09:30:08 GMT
+Seat 1: Belgiandude (button) folded on the Turn
+Seat 2: viratt folded before Flop
+Seat 3: mohamad00136 folded before Flop
+Seat 4: 23409m (small blind) collected (0.76)
+Seat 5: CPT3 (big blind) folded before Flop
+Seat 6: HarryPARK folded before Flop (didn't bet)
+Seat 7: nice27 folded before Flop (didn't bet)
 *** RNG ***
-phrase:  o        B   +4S r<  [     a2  
-cards: 2c Tc Td Th 3h Qh Kd 8h Qs Qd 9c 4h 8s 2s 5s 3c 7h Jh 5d 4s Ks 9d 6d Qc 7d As 9s 6c Jd 2d 2h 4d 5c Kc 7s 6h Ad 7c Js 3s 8c Kh 5h 8d 4c 3d 6s Ah XX XX XX XX
+phrase:  K  LH    !BL>  v  t }    v= y-s
+cards: (9d) (6c) (5d) (Ks) Js Ah 6h Td 2s Ts 6d 4h Jd 4c 3d 8c 7c Jh Th 9s 2h 8s 9c 8h 3c Qc 7h 5h 4d 8d 7d 2c 5s 3h XX XX XX XX
+player_cards: 3 Kh Kc
 
 
