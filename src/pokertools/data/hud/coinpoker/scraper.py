@@ -26,14 +26,18 @@ class CoinPokerScraper:
 
     def run(self) -> None:
         hh_raw = self.get_raw_hand_history()
-        print(f'Got raw hand history: {hh_raw[:20]}...')
+        hh_raw += '\n' * 2
+        print(f'Got raw hand history: {hh_raw[:50]}...')
 
         now = datetime.now()
-        fn = os.path.join(OUT_DIR, f'coinpoker_{now.strftime("%Y%m%d_%H%M")}.phh')
+        fn = os.path.join(OUT_DIR, f'coinpoker_{now.strftime("%Y%m%d_%H%M%S%f")}.phh')
         hh = next(self.parser(hh_raw), None)
         if hh:
-            with open(fn, 'w', encoding='utf=8') as f:
-                f.write(hh)
+            print(f'Got hh with hand_id={hh.hand}, writing to file')
+            with open(fn, 'wb') as f:
+                hh.dump(f)
+        else:
+            print('Unable to parse')
 
     def get_raw_hand_history(self) -> str:
         hand_history_elem = self.window.child_window(
@@ -43,9 +47,6 @@ class CoinPokerScraper:
         time.sleep(self.delay)
 
         return hand_history_elem.window_text()
-
-    def parse_hh(self, hh_raw: str) -> HandHistory:
-        pass
 
 
 if __name__ == '__main__':
