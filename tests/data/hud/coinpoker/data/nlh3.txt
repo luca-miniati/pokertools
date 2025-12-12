@@ -1,0 +1,54 @@
+CoinPoker Hand #343144073: Hold'em No Limit (0.01/0.02) 2025/12/12 09:11:19 GMT
+Table 'NL ₮2 IV' 7-max Seat #5 is the button
+Seat 1: Belgiandude (2 in chips)
+Seat 2: halooo (3.79 in chips)
+Seat 3: ironheart (2.41 in chips) is sitting out
+Seat 4: 23409m (3.21 in chips)
+Seat 5: CPT3 (1.97 in chips)
+Seat 6: vietpandaman1 (1.93 in chips)
+Seat 7: 22846 (0.8 in chips)
+vietpandaman1: posts small blind 0.01
+22846: posts big blind 0.02
+*** HOLE CARDS ***
+Dealt to 23409m [Qh 4h]
+Belgiandude: folds
+halooo: calls 0.02
+23409m: calls 0.02
+CPT3: folds
+vietpandaman1: calls 0.01
+22846: checks
+*** FLOP *** [2h 4d Jh]
+vietpandaman1: checks
+22846: checks
+halooo: bets 0.08
+23409m: calls 0.08
+vietpandaman1: calls 0.08
+22846: folds
+*** TURN *** [2h 4d Jh] [8s]
+vietpandaman1: checks
+halooo: checks
+23409m: checks
+*** RIVER *** [2h 4d Jh 8s] [Ac]
+vietpandaman1: bets 1.83 and is all-in
+halooo: calls 1.83
+23409m: folds
+*** SHOW DOWN ***
+vietpandaman1: shows [9h Tc] (Ace high)
+halooo: shows [Ah 8c] (two pairs, Aces and Eights)
+halooo collected 3.78 from pot
+*** SUMMARY ***
+Total pot 3.98 | CC 0.2
+Board [ 2h 4d Jh 8s Ac ]
+Game ended: 2025/12/12 09:12:45 GMT
+Seat 1: Belgiandude folded before Flop (didn't bet)
+Seat 2: halooo showed [Ah 8c] and won (3.78) with two pairs, Aces and Eights
+Seat 3: ironheart folded before Flop (didn't bet)
+Seat 4: 23409m folded on the River
+Seat 5: CPT3 (button) folded before Flop (didn't bet)
+Seat 6: vietpandaman1 (small blind) showed [9h Tc]
+Seat 7: 22846 (big blind) folded on the Flop
+*** RNG ***
+phrase: D  ]  Z j     _MF>f m[s +    M b
+cards: (2h) (4d) (Jh) (8s) (Ac) 3s 5d 3d Kd Js 8h 7c 4s 9c 8d 9d Jc 7h As Th Kh 5h Ks Td 2s 9s Ad 6h Ts Qs 3h 2d 6c 6d Kc 7s XX XX XX XX
+player_cards: 3 Qh 4h
+
