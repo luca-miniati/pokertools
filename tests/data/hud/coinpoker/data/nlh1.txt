@@ -16,3 +16,4 @@ Seat 4: 23409m (button) collected (0.01)
 phrase:  o        B   +4S r<  [     a2  
 cards: 2c Tc Td Th 3h Qh Kd 8h Qs Qd 9c 4h 8s 2s 5s 3c 7h Jh 5d 4s Ks 9d 6d Qc 7d As 9s 6c Jd 2d 2h 4d 5c Kc 7s 6h Ad 7c Js 3s 8c Kh 5h 8d 4c 3d 6s Ah XX XX XX XX
 
+

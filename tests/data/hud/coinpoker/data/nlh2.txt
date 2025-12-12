@@ -44,3 +44,4 @@ phrase:  y   #      t n  K^     eF. u H
 cards: (2c) (9s) (5h) 4h 5d 7h Kd 8d 7s Kh Td 5s 6h 7c 8h Tc Qd 2d Qc 3c 8c 9d 9h 7d Ad Qh 6s Ah Ts 5c 4c Kc Qs 3d XX XX XX XX
 player_cards: 6 4d 2s
 
+

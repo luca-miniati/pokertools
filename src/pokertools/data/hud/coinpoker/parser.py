@@ -1,9 +1,10 @@
 from re import compile, DOTALL, MULTILINE
+from typing import Callable, Generator
 from collections import defaultdict
 from dataclasses import dataclass
 from operator import add
-from pokerkit.notation import REParser
-from pokerkit.utilities import UNMATCHABLE_PATTERN, parse_time
+from pokerkit.notation import HandHistory, REParser
+from pokerkit.utilities import UNMATCHABLE_PATTERN, parse_time, parse_value
 
 
 @dataclass
@@ -18,7 +19,7 @@ class CoinPokerParser(REParser):
     ANTE_POSTING = compile(r'(?P<player>.+): posts the ante \D?(?P<ante>[0-9.,]+)')
     BLIND_OR_STRADDLE_POSTING = compile(r'(?P<player>.+): posts (small|big) blind \D?(?P<blind_or_straddle>[0-9.,]+)')
     STARTING_STACKS = compile(r'Seat \d+: (?P<player>.+) \(\D?(?P<starting_stack>[0-9.,]+) in chips\)')
-    HOLE_DEALING = UNMATCHABLE_PATTERN
+    HOLE_DEALING = compile(r'Dealt to (?P<player>.+) \[(?P<cards>[0-9TJQKAcdhs ]+)\]')
     BOARD_DEALING = compile(
         (
             r'\*\*\*'
@@ -78,12 +79,3 @@ class CoinPokerParser(REParser):
             add,
         ),
     }
-
-    # def _get_completion_betting_or_raising_to_amount(
-    #     self,
-    #     bets: defaultdict[str, int],
-    #     player: str,
-    #     completion_betting_or_raising_amount: int,
-    #     line: str,
-    # ) -> int:
-    #     return bets[player] + completion_betting_or_raising_amount
