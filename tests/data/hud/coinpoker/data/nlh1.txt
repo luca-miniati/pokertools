@@ -1,51 +1,46 @@
-CoinPoker Hand #343148844: Hold'em No Limit (0.01/0.02) 2025/12/12 09:28:51 GMT
-Table 'NL ₮2 IV' 7-max Seat #1 is the button
-Seat 1: Belgiandude (1.99 in chips)
-Seat 2: viratt (2 in chips)
-Seat 3: mohamad00136 (0.81 in chips)
-Seat 4: 23409m (3.43 in chips)
-Seat 5: CPT3 (2.09 in chips)
+CoinPoker Hand #343148500: Hold'em No Limit (0.01/0.02) 2025/12/12 09:27:32 GMT
+Table 'NL ₮2 IV' 7-max Seat #7 is the button
+Seat 1: Belgiandude (1.98 in chips)
+Seat 4: 23409m (3 in chips)
+Seat 5: CPT3 (2.56 in chips)
 Seat 6: HarryPARK (2.96 in chips)
 Seat 7: nice27 (2.04 in chips)
-23409m: posts small blind 0.01
-CPT3: posts big blind 0.02
-viratt: posts big blind 0.02
-mohamad00136: posts big blind 0.02
+Belgiandude: posts small blind 0.01
+23409m: posts big blind 0.02
 *** HOLE CARDS ***
-Dealt to 23409m [Kh Kc]
+Dealt to 23409m [Td Ts]
+CPT3: raises 0.02 to 0.04
 HarryPARK: folds
 nice27: folds
-Belgiandude: raises 0.03 to 0.05
-viratt: folds
-mohamad00136: folds
-23409m: raises 0.17 to 0.22
-CPT3: folds
-Belgiandude: calls 0.17
-*** FLOP *** [9d 6c 5d]
-23409m: bets 0.15
-Belgiandude: calls 0.15
-*** TURN *** [9d 6c 5d] [Ks]
-23409m: bets 0.38
-Belgiandude has timed out
-Belgiandude activated time-bank (60 seconds)
 Belgiandude: folds
-Uncalled bet (0.38) returned to 23409m
-23409m collected 0.76 from pot
-23409m: doesn't show hand
+23409m: raises 0.14 to 0.18
+CPT3: calls 0.14
+*** FLOP *** [Js Qd Jd]
+23409m: bets 0.11
+CPT3: calls 0.11
+*** TURN *** [Js Qd Jd] [6s]
+23409m: checks
+CPT3: bets 0.18
+23409m: calls 0.18
+*** RIVER *** [Js Qd Jd 6s] [7c]
+23409m: checks
+CPT3: checks
+*** SHOW DOWN ***
+23409m: shows [Td Ts] (two pairs, Jacks and Tens)
+CPT3: mucks hand
+23409m collected 0.9 from pot
 *** SUMMARY ***
-Total pot 0.8 | CC 0.04
-Board [ 9d 6c 5d Ks ]
-Game ended: 2025/12/12 09:30:08 GMT
-Seat 1: Belgiandude (button) folded on the Turn
-Seat 2: viratt folded before Flop
-Seat 3: mohamad00136 folded before Flop
-Seat 4: 23409m (small blind) collected (0.76)
-Seat 5: CPT3 (big blind) folded before Flop
+Total pot 0.95 | CC 0.05
+Board [ Js Qd Jd 6s 7c ]
+Game ended: 2025/12/12 09:28:49 GMT
+Seat 1: Belgiandude (small blind) folded before Flop
+Seat 4: 23409m (big blind) showed [Td Ts] and won (0.9) with two pairs, Jacks and Tens
+Seat 5: CPT3 mucked
 Seat 6: HarryPARK folded before Flop (didn't bet)
-Seat 7: nice27 folded before Flop (didn't bet)
+Seat 7: nice27 (button) folded before Flop (didn't bet)
 *** RNG ***
-phrase:  K  LH    !BL>  v  t }    v= y-s
-cards: (9d) (6c) (5d) (Ks) Js Ah 6h Td 2s Ts 6d 4h Jd 4c 3d 8c 7c Jh Th 9s 2h 8s 9c 8h 3c Qc 7h 5h 4d 8d 7d 2c 5s 3h XX XX XX XX
-player_cards: 3 Kh Kc
+phrase:       A V+ A   j bX0    A=  ) / 
+cards: (Js) (Qd) (Jd) (6s) (7c) 4d 9h 2d 3s 2c 6d 5d 5c 6h 5h Ac 8d 3h 9c Kh 4h As 3c Ah 9d 7s Tc 9s 6c 4c 8s Qc Qs Qh Kd Th 7h Jc XX XX XX XX
+player_cards: 3 Td Ts
 
 
