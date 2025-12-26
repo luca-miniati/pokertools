@@ -1,0 +1,214 @@
+[meta]
+position = "UTG"
+action = "RFI"
+stack = "30bb"
+
+[[AA]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[AKs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[AQs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[AJs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[ATs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[A9s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[A8s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[A7s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[A6s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[A5s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[A4s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[A3s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[AKo]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[KK]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[KQs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[KJs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[KTs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[K9s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[K8s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[AQo]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[KQo]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[QQ]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[QJs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[QTs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[Q9s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[AJo]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[KJo]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[QJo]]
+action = "raise"
+amount = 2.3
+freq = 0.5
+
+[[JJ]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[JTs]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[J9s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[ATo]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[KTo]]
+action = "raise"
+amount = 2.3
+freq = 0.5
+
+[[TT]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[T9s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[T8s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[99]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[98s]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[88]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[77]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[66]]
+action = "raise"
+amount = 2.3
+freq = 1.0
+
+[[55]]
+action = "raise"
+amount = 2.3
+freq = 0.5
