@@ -1,6 +1,6 @@
 [meta]
-position = "SB"
-action = "RFI"
+position = "sb"
+action = "rfi"
 stack = "30bb"
 
 [[AA]]

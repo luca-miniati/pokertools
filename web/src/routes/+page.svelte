@@ -2,14 +2,20 @@
     import { Range } from '$lib/utils/range';
     import RangeGrid from '$lib/components/RangeGrid.svelte';
     import RangeTree from '$lib/components/RangeTree.svelte';
+    import RangeInfo from '$lib/components/RangeInfo.svelte';
     import { rangeTree } from '$lib/components/rangeTree'
     import { selectedRange } from '$lib/stores/rangeStore'
 
 </script>
 
 <main>
-    <div class="range-grid">
-        <RangeGrid {$selectedRange} />
+    <div class="range-grid-info">
+        <div class="range-info">
+            <RangeInfo />
+        </div>
+        <div class="range-grid">
+            <RangeGrid {$selectedRange} />
+        </div>
     </div>
     <div class="range-tree">
         <RangeTree nodes={rangeTree}/>
@@ -25,14 +31,20 @@
         height: 100vh;
     }
 
-    .range-grid {
+    .range-grid-info {
         flex: 0 0 80%;
-        min-width: 0;
+    }
+
+    .range-info {
+        height: 5%;
+    }
+
+    .range-grid {
+        height: 95%;
     }
 
     .range-tree {
         flex: 0 0 20%;
-        min-width: 0;
         overflow: scroll;
     }
 </style>

@@ -1,6 +1,6 @@
 [meta]
-position = "BTN"
-action = "RFI"
+position = "btn"
+action = "rfi"
 stackSize = "30bb"
 
 [[AA]]

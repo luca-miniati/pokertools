@@ -65,7 +65,7 @@
     .node {
         display: flex;
         align-items: center;
-        padding: 0.5rem 1.0rem;
+        padding: 0.0rem 1.0rem;
         color: var(--fg);
     }
 

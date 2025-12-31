@@ -17,8 +17,6 @@
             {/each}
         {/each}
     </div>
-{:else}
-    <div>Select a range</div>
 {/if}
 
 <style>

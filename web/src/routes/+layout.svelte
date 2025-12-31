@@ -19,9 +19,9 @@
 		--secondary: #9ccfd8;
 		--accent: #c4a7e7;
 		--border: #332e4d;
-        --custom1: #286983;
+        --custom1: #333a3a;
         --custom2: #575279;
-        --custom3: #b4637a;
+        --custom3: #894f60;
 	}
 
     :global(body) {
